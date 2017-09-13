@@ -10,3 +10,7 @@ bazel-out
 bazel-testlogs
 # python
 *.pyc
+/release/lib/x64-Debug-vc9.0/*.obj
+/release/lib/x64-Debug-vc9.0/*.idb
+/release/lib/x64-Debug-vc9.0/*.pdb
+/release/lib/x64-Debug-vc9.0/*.htm
